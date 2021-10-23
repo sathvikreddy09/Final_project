@@ -1,0 +1,5 @@
+Home Automation
+
+            Home Automation is a system software that integrates all the home appliances present in a typical house into one network. This network is then accessed by the users to change the state of those machines connected through the network. The pattern that best fits this problem is the Observer pattern. This pattern allows all the users to get notified whenever the admin make changes to the state of a machine.
+
+            The components of this system includes TurnOffHomeAppliance, TurnOnHomeAppliance, adding new home member, Home, etc. The program is written in a simple and easy-to-understand language where even common people can clearly understand it and work on it.
